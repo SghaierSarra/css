@@ -1,0 +1,27 @@
+#home {
+    background-color: rgb(210, 209, 209);
+}
+
+.title{
+    text-align: center;
+    color: maroon;
+    font-style: italic;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: x-large;
+}
+#resume {
+    background-color: wheat;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#resume p {
+    font-family: monospace;
+
+}
+
+#work ul {
+    font-family: monospace;
+    color: rgb(214, 183, 58);
+}
+
+
